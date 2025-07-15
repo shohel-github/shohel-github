@@ -133,9 +133,3 @@ Full-stack developer with **6+ years** of experience crafting scalable, user-cen
 - ⚡ I love solving complex problems and UI/UX challenges
 - 🌍 Always exploring new web technologies
 - 📚 Continuous learner with a passion for clean code
-
----
-
-<div align="center">
-  <i>⭐️ From [shohel-github](https://github.com/shohel-github)</i>
-</div>
